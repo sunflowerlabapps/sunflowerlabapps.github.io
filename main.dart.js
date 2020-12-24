@@ -62150,7 +62150,7 @@ Z.B_.prototype={
 J:function(a,b){var s=null,r="Montserrat",q=b.R(t.w).f,p=H.d([C.AJ,C.o3],t.it),o=L.bh("Made using Flutter for Web by ",s,s,s,A.c_(s,s,C.j,s,s,s,s,s,r,s,s,14,s,s,s,s,!0,1.5,s,s,s,s,s),s),n=$.a8B(),m=t.Y
 return M.cs(s,T.oW(H.d([T.nW(T.oW(H.d([o,E.a97(K.a98(C.j,L.it(C.rd,n,14),s,s),n,2,L.bh("Purvik Rana",s,s,s,s,s),A.c_(s,s,C.j,s,s,s,s,s,r,s,s,16,s,s,s,s,!0,1.5,s,s,s,s,s).lz(C.ch),new V.al(10,10,10,10),s),L.bh(" with \ud83d\udc99",s,s,s,A.c_(s,s,C.j,s,s,s,s,s,r,s,s,14,s,s,s,s,!0,1.5,s,s,s,s,s),s)],m),C.a5,C.cx,C.aZ),1),U.a9q("assets/images/sfl_hackathon_logo.png",C.j,s,100)],m),C.a5,C.iF,C.aZ),C.n,s,s,new S.cV(s,s,s,s,s,new T.lZ(C.fq,C.v5,C.lV,p,s,s),C.a2),s,q.a.b*0.15,s,new V.al(30,10,30,10),s,s,s)}}
 Y.Ck.prototype={
-J:function(a,b){var s,r=this,q=null,p=T.nW(U.a9q("assets/images/sfl_hackathon_logo.png",C.j,q,q),3),o=L.bh("25th \u30fb DEC \u30fb 2020",q,q,q,A.c_(q,q,C.j,q,q,q,q,q,"Monoton",q,q,50,q,q,q,q,!0,1.5,q,q,q,q,q),C.bz),n=H.amN(2020,12,25,9,0,0,0,!1)
+J:function(a,b){var s,r=this,q=null,p=T.nW(U.a9q("assets/images/sfl_hackathon_logo.png",C.j,q,q),3),o=L.bh("25th \u30fb DEC \u30fb 2020",q,q,q,A.c_(q,q,C.j,q,q,q,q,q,"Monoton",q,q,50,q,q,q,q,!0,1.5,q,q,q,q,q),C.bz),n=H.amN(2020,12,25,9,15,0,0,!1)
 if(!H.cU(n))H.i(H.bI(n))
 s=t.Y
 return new G.jL(T.fr(H.d([p,new T.iq(1,C.fz,o,q),new T.iq(1,C.fz,new Q.wh(new P.cI(n,!1),q),q),T.eA(q,50,q),new T.iq(1,C.fz,T.oW(H.d([new T.bv(C.jS,new E.lv("TEAMS",new Y.Sm(r),q),q),new T.bv(C.jS,new E.lv("RULES",new Y.Sn(r),q),q),new T.bv(C.jS,new E.lv("SCHEDULE",new Y.So(r),q),q),new T.bv(C.jS,new E.lv("PRIZES",new Y.Sp(r),q),q)],s),C.a5,C.bZ,C.aZ),q)],s),C.a5,C.bZ,C.aZ),q)},
